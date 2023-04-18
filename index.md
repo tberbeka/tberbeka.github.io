@@ -6,11 +6,12 @@
 
 [Chest X Ray Gender Prediction](/X_Ray_Gender_Prediction_Deep_Learning.html)
 <img src="images/xray.JPG?raw=true"/> <br>
-Gender Prediction based on Chest X-Ray images, using various deep learning models
+Gender Prediction based on Chest X-Ray images, using various deep learning models (CNN, DenseNet, EfficientNet, Vision Transformer)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/xray.JPG?raw=true"/>
+[Project 2 Title](/pdf/Accident_RandomForest.pdf) 
+<img src="images/rootcauseforest.png?raw=true"/> <br>
+Analysis of historical accident data to extract the most important features that cause fatal accidents (Random Forest, Logistic Regression)
 
 ---
 [Project 3 Title](/bettertable.html)
