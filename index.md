@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Chest X Ray Gender Prediction](/X_Ray_Gender_Prediction_Deep_Learning)
-<img src="images/xray.JPG"/>
+<img src="images/xray.JPG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
