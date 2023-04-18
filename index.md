@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Chest X Ray Gender Prediction](/X_Ray_Gender_Prediction_Deep_Learning)
+[Chest X Ray Gender Prediction](/X_Ray_Gender_Prediction_Deep_Learning.html)
 <img src="images/xray.JPG?raw=true"/>
 
 ---
