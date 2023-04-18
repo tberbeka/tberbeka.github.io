@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/Project_Final_Tomasz_Berbeka)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Chest X Ray Gender Prediction](/X_Ray_Gender_Prediction_Deep_Learning)
+<img src="images/xray.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
