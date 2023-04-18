@@ -10,7 +10,7 @@ Gender Prediction based on Chest X-Ray images, using various deep learning model
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/xray.JPG?raw=true"/>
 
 ---
 [Project 3 Title](/bettertable.html)
