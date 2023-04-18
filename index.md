@@ -6,6 +6,7 @@
 
 [Chest X Ray Gender Prediction](/X_Ray_Gender_Prediction_Deep_Learning.html)
 <img src="images/xray.JPG?raw=true"/>
+Gender Prediction based on Chest X-Ray images, using various deep learning models
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
