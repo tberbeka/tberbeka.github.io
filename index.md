@@ -9,9 +9,9 @@
 Gender Prediction based on Chest X-Ray images, using various deep learning models (CNN, DenseNet, EfficientNet, Vision Transformer)
 
 ---
-[Project 2 Title](/pdf/Accident_RandomForest.pdf) 
+[Accident Data Analysis](/pdf/Accident_RandomForest.pdf) 
 <img src="images/rootcauseforest.png?raw=true"/> <br>
-Analysis of historical accident data to extract the most important features that cause fatal accidents (Random Forest, Logistic Regression)
+Analysis of historical accident data to extract the most relevant features that lead to fatal accidents (Random Forest, Logistic Regression)
 
 ---
 [Project 3 Title](/bettertable.html)
