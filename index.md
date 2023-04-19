@@ -22,9 +22,9 @@ Analysis of historical accident data to extract the most relevant features that 
 ### Category Name 2
 
 - [Project 1 Title](/vertopal.com_Project_Final_Tomasz_Berbeka/68996618df9549afb56ff31830c1a777.md)
-- [Project 2 Title](/sample_page)
-- [Project 3 Title](/bettertable)
-- [Project 4 Title](/vertopal.com_Project_Final_Tomasz_Berbeka/68996618df9549afb56ff31830c1a777)
+- [Project 2 Title](/Visu_test_1.html)
+- [Project 3 Title](/visu_test_2)
+- [Project 4 Title](/Visu_test_1)
 - [Project 5 Title](/Project_Final_Tomasz_Berbeka)
 
 ---
