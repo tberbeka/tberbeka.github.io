@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Chest X Ray Gender Prediction](/X_Ray_Gender_Prediction_Deep_Learning.html)
+[Chest X Ray Gender Prediction](DeepLearningProject/XRay)
 <img src="images/xray.JPG?raw=true"/> <br>
 Gender Prediction based on Chest X-Ray images, using various deep learning models (CNN, DenseNet, EfficientNet, Vision Transformer)
 
