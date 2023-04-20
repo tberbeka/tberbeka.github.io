@@ -1,8 +1,8 @@
-## Portfolio
+## Example Projects
 
 ---
 
-### Category Name 1 
+### Analytics & Visualization
 
 [Chest X Ray Gender Prediction](DeepLearningProject/XRay)
 <a href="DeepLearningProject/XRay"><img src="images/xray.JPG?raw=true"/> </a><br>
