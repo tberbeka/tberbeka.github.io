@@ -25,7 +25,7 @@ Analysis of historical accident data to extract the most relevant features that 
 
 ### Other
 
-- [TBD](/vertopal.com_Project_Final_Tomasz_Berbeka/68996618df9549afb56ff31830c1a777.md)
+- [Linear Regression analysis of public expenditures](/pdf/SimpleLinearRegression.pdf)
 - [TBD](/Visu_test_1.html)
 - [TBD](/Visu_test_1)
 - [TBD](/Visu_test_1)
