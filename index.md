@@ -9,13 +9,16 @@
 Gender Prediction based on Chest X-Ray images, using various deep learning models (CNN, DenseNet, EfficientNet, Vision Transformer)
 
 ---
+[Plotly Animated Graph Deployed in Google Cloud Platform](https://plotlygraphno3-rsdqqpj3ga-nn.a.run.app/) 
+<img src="images/plotlygcp.png?raw=true"/> <br>
+Example of an animation created in Plotly, which was deployed online via GCP, using Docker [Check Github Repo for code and setup files](https://github.com/tberbeka/PlotlyGraphDeployment) <br> <br>
+
+[See examples of other Plotly visualizations here:](https://plotlygraphno3-rsdqqpj3ga-nn.a.run.app/) <br>
+
+---
 [Accident Data Analysis](/pdf/Accident_RandomForest.pdf) 
 <img src="images/rootcauseforest.png?raw=true"/> <br>
 Analysis of historical accident data to extract the most relevant features that lead to fatal accidents (Random Forest, Logistic Regression)
-
----
-[Project 3 Title](/bettertable.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
