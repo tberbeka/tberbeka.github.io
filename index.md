@@ -14,7 +14,7 @@ Gender Prediction based on Chest X-Ray images, using various deep learning model
 Example of an animation created in Plotly, which was deployed online via GCP, using Docker [Github Repo containing app code and setup files](https://github.com/tberbeka/PlotlyGraphDeployment) <br> <br>
 
 [**See examples of other Plotly visualizations here.**](/PlotlyOther.html)
-<a href="/PlotlyOther.html"><img src="images/PlotlyOtherImage.png?raw=true"/></a>
+<a href="/PlotlyOther.html"><img src="images/OtherPlotlyImage.png?raw=true"/></a>
 
 ---
 ### [Accident Data Analysis](/pdf/Accident_RandomForest.pdf) 
