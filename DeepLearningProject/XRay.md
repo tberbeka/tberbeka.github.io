@@ -43,30 +43,7 @@ import sys
 !{sys.executable} -m pip install tensorflow_hub
 ```
 
-    Collecting vit-keras
-      Downloading vit_keras-0.1.0-py3-none-any.whl (24 kB)
-    Collecting validators
-      Downloading validators-0.20.0.tar.gz (30 kB)
-      Preparing metadata (setup.py) ... [?25ldone
-    [?25hRequirement already satisfied: scipy in /opt/conda/lib/python3.7/site-packages (from vit-keras) (1.7.3)
-    Requirement already satisfied: numpy<1.23.0,>=1.16.5 in /opt/conda/lib/python3.7/site-packages (from scipy->vit-keras) (1.21.6)
-    Requirement already satisfied: decorator>=3.4.0 in /opt/conda/lib/python3.7/site-packages (from validators->vit-keras) (5.1.1)
-    Building wheels for collected packages: validators
-      Building wheel for validators (setup.py) ... [?25ldone
-    [?25h  Created wheel for validators: filename=validators-0.20.0-py3-none-any.whl size=19581 sha256=7afaa2bcd26033ffdd225ea208ce1d02ab4d823e6fb1a6e714597424284d297a
-      Stored in directory: /root/.cache/pip/wheels/3d/7c/f1/f87f51d07a2513aa0fb128d5eb504da1fcef9c87475d9eef64
-    Successfully built validators
-    Installing collected packages: validators, vit-keras
-    Successfully installed validators-0.20.0 vit-keras-0.1.0
-    [33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
-    [0mRequirement already satisfied: opencv-python in /opt/conda/lib/python3.7/site-packages (4.5.4.60)
-    Requirement already satisfied: numpy>=1.14.5 in /opt/conda/lib/python3.7/site-packages (from opencv-python) (1.21.6)
-    [33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
-    [0mRequirement already satisfied: tensorflow_hub in /opt/conda/lib/python3.7/site-packages (0.12.0)
-    Requirement already satisfied: numpy>=1.12.0 in /opt/conda/lib/python3.7/site-packages (from tensorflow_hub) (1.21.6)
-    Requirement already satisfied: protobuf>=3.8.0 in /opt/conda/lib/python3.7/site-packages (from tensorflow_hub) (3.20.3)
-    [33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
-    [0m
+    Done
 
 ## Imports
 
