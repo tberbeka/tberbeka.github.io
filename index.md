@@ -13,7 +13,7 @@ Gender Prediction based on Chest X-Ray images, using various deep learning model
 <a href="https://plotlygraphno3-rsdqqpj3ga-nn.a.run.app/"><img src="images/plotlygcp.png?raw=true"/></a> <br>
 Example of an animation created in Plotly, which was deployed online via GCP, using Docker [Github Repo containing app code and setup files](https://github.com/tberbeka/PlotlyGraphDeployment) <br> <br>
 
-[See examples of other Plotly visualizations here.](https://plotlygraphno3-rsdqqpj3ga-nn.a.run.app/) <br>
+[**See examples of other Plotly visualizations here.**](/PlotlyOther.html)<br>
 
 ---
 ### [Accident Data Analysis](/pdf/Accident_RandomForest.pdf) 
@@ -26,9 +26,9 @@ Analysis of historical accident data to extract the most relevant features that 
 ### Other
 
 - [Linear Regression analysis of public expenditures](/pdf/SimpleLinearRegression.pdf)
-- [TBD](/Visu_test_1.html)
-- [TBD](/Visu_test_1)
-- [TBD](/Visu_test_1)
+- [TBD](/)
+- [TBD](/)
+- [TBD](/)
 
 
 ---
